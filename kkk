@@ -23,8 +23,21 @@
       "size": 14533669,
       "supportedOS": [
         {
-          "minimum": "iOS 17.0-18.7.1",
-          "maximum": "iOS 26.0-26.6.1 iOS 27 beta 1-4/Public beta 1-2"
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
         }
       ],
       "changelog": "Initial release.",
