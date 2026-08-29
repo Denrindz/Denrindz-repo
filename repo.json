@@ -91,6 +91,49 @@
 ], 
 "featured": false, 
 "isPrivate": false 
+},
+{ 
+"identifier": "Fosheet_Wallpaper", 
+"kind": "wallpaper", 
+"name": "Fosheet Wallpaper", 
+"author": "Nhat Tien", 
+"version": "1.0.0", 
+"summary": "Hình Nền Xịn Xìn Xin ★",
+"description": "Tendies đơn giản đẹp không cầu kì 👀", 
+"category": "Wallpaper", 
+"tags": [ 
+"Wallpaper",
+], 
+"icon": "assets/IMG_0775.jpeg", 
+"screenshots": [
+"assets/IMG_0779.png",
+"assets/IMG_0778.png"
+], 
+"download": "assets/Fosheet_by_mdds.tendies",
+"sha256": "d0e207c7130a6d640f5bea24911e1350913f9e015163b09d5e7d19c9d759de43", 
+"size": 344358, 
+"supportedOS": [ 
+{ 
+"minimum": "17.0", 
+"maximum": "18.7.1" 
+}, 
+{ 
+"minimum": "26.0", 
+"maximum": "26.6.1" 
+}, 
+{ 
+"minimum": "27.0", 
+"maximum": "27.0", 
+"builds": [ 
+"24A5355q", 
+"24A5370h", 
+"24A5380h", 
+"24A5390f" 
+] 
+} 
+], 
+"featured": false, 
+"isPrivate": false 
 } 
 ] 
 }
