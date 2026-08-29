@@ -1,22 +1,21 @@
 {
   "schemaVersion": 1,
   "identifier": "com.tnt300709.3105repo",
-  "name": "TNT 3105 Repo",
+  "name": "Denrindz",
   "icon": "https://raw.githubusercontent.com/tnt300709-debug/-my-3105-repo/main/IMG_0704.png"
-  "description": "iPhone 16 White repository for 3105.",
+  "description": "Ở Đây Có Hình Nền Đẹp.",
   "packages": [
     {
       "identifier": "iphone16white",
       "kind": "wallpaper",
       "name": "iPhone 16 White",
-      "author": "tnt300709-debug",
+      "author": "Tienn",
       "version": "1.0.0",
-      "summary": "iPhone 16 White",
-      "description": "iPhone 16 White wallpaper.",
+      "summary": "Hình Nền Iphone 16 Màu Trắng",
+      "description": "Cơn Mưa Iphone.",
       "category": "Wallpaper",
       "tags": [
         "Wallpaper",
-        "iPhone"
       ],
       "publishedAt": "2026-08-29T00:00:00Z",
       "download": "https://raw.githubusercontent.com/tnt300709-debug/-my-3105-repo/main/iphone16White.tendies",
