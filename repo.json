@@ -3,7 +3,7 @@
   "identifier": "Denrin.Tienn.com",
   "name": "Denrindz",
   "description": "Mã Nguồn Repo Của Denrin",
-  "icon": "assets/IMG_0703.png",
+  "icon": ".assets/IMG_0703.png",
   "packages": [
     {
       "identifier": "Ronaldo_Wallpaper",
@@ -17,10 +17,10 @@
         "Wallpaper"
       ],
       "publishedAt": "2026-08-29T00:00:00Z",
-      "icon": "https://raw.githubusercontent.com/tnt300709-debug/-my-3105-repo/main/assets/IMG_0719.png",
+      "icon": "https://raw.githubusercontent.com/tnt300709-debug/-my-3105-repo/main/.assets/IMG_0719.png",
       "screenshots": [
-        "https://raw.githubusercontent.com/tnt300709-debug/-my-3105-repo/main/assets/IMG_0720.png",
-        "https://raw.githubusercontent.com/tnt300709-debug/-my-3105-repo/main/assets/IMG_0721.png"
+        "https://raw.githubusercontent.com/tnt300709-debug/-my-3105-repo/main/.assets/IMG_0720.png",
+        "https://raw.githubusercontent.com/tnt300709-debug/-my-3105-repo/main/.assets/IMG_0721.png"
       ],
       "download": "https://raw.githubusercontent.com/tnt300709-debug/-my-3105-repo/main/assets/real_madrid_club_cristiano_ronaldo_hermes.tendies",
       "sha256": "88c034b4a6a4d37fadc7f9cb08e0a1327fdffc7df1707cfbc792c08fb04f792e",
