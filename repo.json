@@ -8,7 +8,6 @@
     {
       "identifier": "White",
       "kind": "wallpaper",
-      "icon": "https://raw.githubusercontent.com/tnt300709-debug/-my-3105-repo/main/IMG_0704.png",
       "name": "Iphone 16 White",
       "author": "Tienn",
       "version": "1.0.0",
@@ -19,6 +18,7 @@
         "Wallpaper"
       ],
       "publishedAt": "2026-08-29T00:00:00Z",
+      "icon": "https://raw.githubusercontent.com/tnt300709-debug/-my-3105-repo/main/IMG_0704.png",
       "download": "https://raw.githubusercontent.com/tnt300709-debug/-my-3105-repo/main/iphone16White.tendies",
       "sha256": "b09f99b6092a1554d41787950a0c02bdc261603e271140be18dac1072ba2d4ab",
       "size": 203507,
