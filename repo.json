@@ -1,0 +1,52 @@
+{ 
+"schemaVersion": 1, 
+"identifier": "Denrin.Tienn.com", 
+"name": "Denrindz", 
+"description": "Mã Nguồn Repo Của Denrin", 
+"icon": "assets/IMG_0703.png", 
+"packages": [ 
+{ 
+"identifier": "Ronaldo_Wallpaper", 
+"kind": "wallpaper", 
+"name": "Ronaldo Wallpaper", 
+"author": "Chinese", 
+"version": "1.0.0", 
+"summary": "Hình nền xịn xìn xin", 
+"description": "Tendies có anh 7 cool ngầu", 
+"category": "Wallpaper", 
+"tags": [ 
+"Wallpaper",  
+], 
+"icon": "assets/IMG_0719.png", 
+"screenshots": [ 
+"assets/IMG_0720.png",
+"assets/IMG_7021.png"
+], 
+"download": "assets/real_madrid_club_cristiano_ronaldo_hermes.tendies",
+"sha256": "88c034b4a6a4d37fadc7f9cb08e0a1327fdffc7df1707cfbc792c08fb04f792e", 
+"size": 13168623, 
+"supportedOS": [ 
+{ 
+"minimum": "17.0", 
+"maximum": "18.7.1" 
+}, 
+{ 
+"minimum": "26.0", 
+"maximum": "26.6.1" 
+}, 
+{ 
+"minimum": "27.0", 
+"maximum": "27.0", 
+"builds": [ 
+"24A5355q", 
+"24A5370h", 
+"24A5380h", 
+"24A5390f" 
+] 
+} 
+], 
+"featured": false, 
+"isPrivate": false 
+} 
+] 
+}
