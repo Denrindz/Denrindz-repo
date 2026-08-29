@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "identifier": "com.tnt300709.3105repo",
   "name": "TNT 3105 Repo",
-  "description": "iPhone 16 White repository for 3105.",
+  "description": "TNT 3105 Repository",
   "packages": [
     {
       "identifier": "iphone16white",
@@ -11,11 +11,10 @@
       "version": "1.0.0",
       "summary": "iPhone 16 White",
       "description": "iPhone 16 White .tendies package.",
-      "category": "Other",
+      "category": "Wallpaper",
       "tags": [
-        "iPhone",
-        "White",
-        "tendies"
+        "Wallpaper",
+        "iPhone"
       ],
       "publishedAt": "2026-08-29T00:00:00Z",
       "download": "https://raw.githubusercontent.com/tnt300709-debug/-my-3105-repo/main/iphone16White.tendies",
@@ -23,11 +22,10 @@
       "size": 203507,
       "supportedOS": [
         {
-          "minimum": "1.0",
-          "maximum": "99.0"
+          "minimum": "26.0",
+          "maximum": "26.6.1"
         }
       ],
-      "changelog": "Initial release.",
       "featured": false,
       "isPrivate": false
     }
