@@ -2,6 +2,7 @@
   "schemaVersion": 1,
   "identifier": "com.tnt300709.3105repo",
   "name": "TNT 3105 Repo",
+  "icon": "https://raw.githubusercontent.com/tnt300709-debug/-my-3105-repo/main/icon.png"
   "description": "iPhone 16 White repository for 3105.",
   "packages": [
     {
