@@ -1,0 +1,16 @@
+{
+  "schemaVersion": 1,
+  "identifier": "com.tnt300709.3105repo",
+  "name": "TNT 3105 Repo",
+  "description": "TNT 3105 Repository",
+  "packages": [
+    {
+      "identifier": "iphone16white",
+      "name": "iPhone 16 White",
+      "version": "1.0.0",
+      "download": "iphone16White.tendies",
+      "sha256": "b09f99b6092a1554d41787950a0c02bdc261603e271140be18dac1072ba2d4ab",
+      "size": 203507
+    }
+  ]
+}
