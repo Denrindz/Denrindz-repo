@@ -24,10 +24,11 @@
         {
           "minimum": "17",
           "maximum": "27"
-        ]
-      }
-    ],
+        }
+      ],
       "changelog": "Luôn Cập Nhật Nhiều Hình Đẹp Cho Mọi Người.",
       "featured": true,
       "isPrivate": false
     }
+  ]
+}
