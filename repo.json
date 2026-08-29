@@ -1,21 +1,21 @@
 {
   "schemaVersion": 1,
-  "identifier": "Tienn3105",
-  "name": "Denrin",
-  "description": "Ở Đây Có Hình Nền Xịn",
-  "icon": "https://raw.githubusercontent.com/tnt300709-debug/-my-3105-repo/main/IMG_0704.png",
+  "identifier": "com.tnt300709.3105repo",
+  "name": "TNT 3105 Repo",
+  "description": "iPhone 16 White repository for 3105.",
   "packages": [
     {
-      "identifier": "White",
+      "identifier": "iphone16white",
       "kind": "wallpaper",
-      "name": "Iphone 16 White",
-      "author": "Tienn",
+      "name": "iPhone 16 White",
+      "author": "tnt300709-debug",
       "version": "1.0.0",
-      "summary": "Hình Nền Iphone",
-      "description": "Mưa Iphone",
+      "summary": "iPhone 16 White",
+      "description": "iPhone 16 White wallpaper.",
       "category": "Wallpaper",
       "tags": [
-        "Wallpaper"
+        "Wallpaper",
+        "iPhone"
       ],
       "publishedAt": "2026-08-29T00:00:00Z",
       "download": "https://raw.githubusercontent.com/tnt300709-debug/-my-3105-repo/main/iphone16White.tendies",
@@ -23,12 +23,12 @@
       "size": 203507,
       "supportedOS": [
         {
-          "minimum": "17",
-          "maximum": "27"
+          "minimum": "26.0",
+          "maximum": "26.6.1"
         }
       ],
-      "changelog": "Luôn Cập Nhật Nhiều Hình Đẹp Cho Mọi Người.",
-      "featured": true,
+      "changelog": "Initial release.",
+      "featured": false,
       "isPrivate": false
     }
   ]
