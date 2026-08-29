@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "identifier": "com.tnt300709.3105repo",
   "name": "TNT 3105 Repo",
-  "description": "Repository for 3105.",
+  "description": "TNT 3105 Repository",
   "packages": [
     {
       "identifier": "iphone16white",
