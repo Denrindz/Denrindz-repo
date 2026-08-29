@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "identifier": "com.tnt300709.3105repo",
   "name": "Denrindz",
-  "icon": "https://raw.githubusercontent.com/tnt300709-debug/-my-3105-repo/main/IMG_0704.png"
+  "icon": "https://raw.githubusercontent.com/tnt300709-debug/-my-3105-repo/main/IMG_0704.png",
   "description": "Ở Đây Có Hình Nền Đẹp.",
   "packages": [
     {
@@ -15,7 +15,7 @@
       "description": "Cơn Mưa Iphone.",
       "category": "Wallpaper",
       "tags": [
-        "Wallpaper",
+        "Wallpaper"
       ],
       "publishedAt": "2026-08-29T00:00:00Z",
       "download": "https://raw.githubusercontent.com/tnt300709-debug/-my-3105-repo/main/iphone16White.tendies",
