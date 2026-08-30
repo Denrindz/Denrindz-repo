@@ -518,6 +518,135 @@
 ], 
 "featured": false, 
 "isPrivate": false 
+},
+{ 
+"identifier": "Mario_Galaxy_Movie_Wallpaper", 
+"kind": "wallpaper", 
+"name": "Mario Galaxy Movie Wallpaper", 
+"author": "Chinese", 
+"version": "1.0.0", 
+"summary": "Hình Nền Xịn Xìn Xin ★",
+"description": "Tendies Có Cậu Bé Mario Với Phong Cảnh Cực Chill 🐢", 
+"category": "Wallpaper", 
+"tags": [ 
+"Wallpaper"
+], 
+"icon": "assets/IMG_0775.jpeg", 
+"screenshots": [
+"assets/IMG_0936.png",
+"assets/IMG_0937.png"
+], 
+"download": "File/mario_galaxy_movie.tendies",
+"sha256": "21298ce20f8db100b85a86e0a6e8c22b72ae519a60e6b33fdeb5010a81387500", 
+"size": 17023130, 
+"supportedOS": [ 
+{ 
+"minimum": "17.0", 
+"maximum": "18.7.1" 
+}, 
+{ 
+"minimum": "26.0", 
+"maximum": "26.6.1" 
+}, 
+{ 
+"minimum": "27.0", 
+"maximum": "27.0", 
+"builds": [ 
+"24A5355q", 
+"24A5370h", 
+"24A5380h", 
+"24A5390f" 
+] 
+} 
+], 
+"featured": false, 
+"isPrivate": false 
+},
+{ 
+"identifier": "live_wallpaper_cute_cats_dancing_Wallpaper", 
+"kind": "wallpaper", 
+"name": "Cute Cats Dancing Wallpaper", 
+"author": "Chinese", 
+"version": "1.0.0", 
+"summary": "Hình Nền Xịn Xìn Xin ★",
+"description": "Tendies Có Chú Mèo Nhảy Cực Cute Phô Mai Que❣️", 
+"category": "Wallpaper", 
+"tags": [ 
+"Wallpaper"
+], 
+"icon": "assets/IMG_0775.jpeg", 
+"screenshots": [
+"assets/IMG_0938.png",
+"assets/IMG_0939.png"
+], 
+"download": "File/live_wallpaper_cute_cats_dancing.tendies",
+"sha256": "6199ac4484ef846d97daea93f326f287afecf31b09d7c32f43ef3b32119713f0", 
+"size": 1980415, 
+"supportedOS": [ 
+{ 
+"minimum": "17.0", 
+"maximum": "18.7.1" 
+}, 
+{ 
+"minimum": "26.0", 
+"maximum": "26.6.1" 
+}, 
+{ 
+"minimum": "27.0", 
+"maximum": "27.0", 
+"builds": [ 
+"24A5355q", 
+"24A5370h", 
+"24A5380h", 
+"24A5390f" 
+] 
+} 
+], 
+"featured": false, 
+"isPrivate": false 
+},
+{ 
+"identifier": "Bocchi_the_rock_Dark_Wallpaper", 
+"kind": "wallpaper", 
+"name": "Bocchi The Rock Dark Wallpaper", 
+"author": "Chinese", 
+"version": "1.0.0", 
+"summary": "Hình Nền Xịn Xìn Xin ★",
+"description": "Tendies A Li Me Siêu Cutee❣️", 
+"category": "Wallpaper", 
+"tags": [ 
+"Wallpaper"
+], 
+"icon": "assets/IMG_0775.jpeg", 
+"screenshots": [
+"assets/IMG_0940.png",
+"assets/IMG_0941.png"
+], 
+"download": "File/Bocchi_the_rock_Dark.tendies",
+"sha256": "e605f1ee3ea1059799ddf56e342ea0c35088f0686572ab59e6b4c60159f57031", 
+"size": 582766, 
+"supportedOS": [ 
+{ 
+"minimum": "17.0", 
+"maximum": "18.7.1" 
+}, 
+{ 
+"minimum": "26.0", 
+"maximum": "26.6.1" 
+}, 
+{ 
+"minimum": "27.0", 
+"maximum": "27.0", 
+"builds": [ 
+"24A5355q", 
+"24A5370h", 
+"24A5380h", 
+"24A5390f" 
+] 
+} 
+], 
+"featured": false, 
+"isPrivate": false 
 }
 ]
 }
