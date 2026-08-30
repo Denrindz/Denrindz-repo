@@ -136,7 +136,7 @@
 },
 { 
 "identifier": "DazzCam_Crack", 
-"name": "Dazz Cam Crack", 
+"name": "Dazz Cam Pro", 
 "author": "WmCry", 
 "version": "1.0.0", 
 "summary": "Chụp Là Ra Ảnh Đẹp Như Phim Những Năm 80 Không Cần Hậu Kỳ – Màu Sắc, Hạt Phim, Rò Sáng Có Hết Trong 1 Cú Chụp ★",
@@ -153,6 +153,48 @@
 "sha256": "a192b2470cf3766d407a8c9957ec1f92e121ee112bbb983d9b60b21b6387b9ea", 
 "size": 1082, 
 "password": "wmcry",
+"supportedOS": [ 
+{ 
+"minimum": "17.0", 
+"maximum": "18.7.1" 
+}, 
+{ 
+"minimum": "26.0", 
+"maximum": "26.6.1" 
+}, 
+{ 
+"minimum": "27.0", 
+"maximum": "27.0", 
+"builds": [ 
+"24A5355q", 
+"24A5370h", 
+"24A5380h", 
+"24A5390f" 
+] 
+} 
+], 
+"featured": false, 
+"isPrivate": false 
+},
+{ 
+"identifier": "CapCut_Crack", 
+"name": "CapCut Pro", 
+"author": "YangJiii", 
+"version": "1.0.0", 
+"summary": "Unlock Capcut Pro Vĩnh Viễn Chỉ Bằng 1 Chạm ★",
+"description": "★ ĐÃ MỞ KHÓA FULL PRO👀\n\n• lưu ý:\n\n- Tính Năng AI Không Sử Dụng Được.\n\n- Không Login Khi Sử Dụng Capcut Pro.", 
+"category": "Application", 
+"tags": [ 
+"Application"
+], 
+"icon": "assets/IMG_0808.jpeg", 
+"screenshots": [
+"assets/IMG_0809.png",
+], 
+"download": "assets/Capcut Pro.3105",
+"sha256": "79d17fb95fbe667621793442e916e12cdfb48c4e136335e850144e4273fc8430", 
+"size": 34303, 
+"password": "3105",
 "supportedOS": [ 
 { 
 "minimum": "17.0", 
