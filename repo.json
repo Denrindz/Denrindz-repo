@@ -303,6 +303,49 @@
 ], 
 "featured": false, 
 "isPrivate": false 
+},
+{ 
+"identifier": "Telephony-CuteCat", 
+"name": "Cute Cat Dialer", 
+"author": "ABC", 
+"version": "1.0.0", 
+"summary": "Bàn Phím Mới toanhhhh ★",
+"description": "★ Nhiều Con Mèo Cute Với Các Hình Thù Bắt Mắt Siêu Thú Vị..🐈\n\n• Có 2 Chế Độ: Sáng/Tối.", 
+"category": "Dialer", 
+"tags": [ 
+"Dialer"
+], 
+"icon": "assets/IMG_0919.jpeg", 
+"screenshots": [
+"assets/IMG_0920.png",
+"assets/IMG_0921.png"
+], 
+"download": "File/TelephonyUI-CuteCat.3105",
+"sha256": "7e4a59e17c097000444d901decd520b539ee6e5b5dd71c2a8e48a6224c0faaef", 
+"size": 372231, 
+"password": "Denrin",
+"supportedOS": [ 
+{ 
+"minimum": "17.0", 
+"maximum": "18.7.1" 
+}, 
+{ 
+"minimum": "26.0", 
+"maximum": "26.6.1" 
+}, 
+{ 
+"minimum": "27.0", 
+"maximum": "27.0", 
+"builds": [ 
+"24A5355q", 
+"24A5370h", 
+"24A5380h", 
+"24A5390f" 
+] 
+} 
+], 
+"featured": false, 
+"isPrivate": false 
 } 
 ] 
 }
