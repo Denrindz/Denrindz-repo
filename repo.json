@@ -776,6 +776,48 @@
 ], 
 "featured": false, 
 "isPrivate": false 
+},
+{ 
+"identifier": "Telephony_Shin", 
+"name": "Shin Dialer", 
+"author": "Gasetinh", 
+"version": "1.0.0", 
+"summary": "Bàn Phím Mới toanhhhh ★",
+"description": "★ Shin Cậu Bé Bút Chì ✏️\n\n• Có 2 Chế Độ: Sáng/Tối.", 
+"category": "Dialer", 
+"tags": [ 
+"Dialer"
+], 
+"icon": "assets/IMG_1052.jpeg", 
+"screenshots": [
+"assets/IMG_1047.png",
+"assets/IMG_1048.png"
+], 
+"download": "File/TelephonyUI-Shin.3105",
+"sha256": "f50c30a1dc7e1d8f94c54dbb893967b3205b470897e588c7e9953d28b42bda82", 
+"size": 775947, 
+"supportedOS": [ 
+{ 
+"minimum": "17.0", 
+"maximum": "18.7.1" 
+}, 
+{ 
+"minimum": "26.0", 
+"maximum": "26.6.1" 
+}, 
+{ 
+"minimum": "27.0", 
+"maximum": "27.0", 
+"builds": [ 
+"24A5355q", 
+"24A5370h", 
+"24A5380h", 
+"24A5390f" 
+] 
+} 
+], 
+"featured": false, 
+"isPrivate": false 
 }
 ]
 }
