@@ -217,6 +217,49 @@
 ], 
 "featured": false, 
 "isPrivate": false 
+},
+{ 
+"identifier": "Telephony-meme", 
+"name": "Meme Troll Dialer", 
+"author": "Nhat Tien", 
+"version": "1.0.0", 
+"summary": "Bàn Phím Mới toanhhhh ★",
+"description": "★ Nhiều Meme Hấp Dẫn Với Các Hình Thù Bắt Mắt Siêu Thú Vị..🌚\n\n• Có 2 Chế Độ: Sáng/Tối.", 
+"category": "Dialer", 
+"tags": [ 
+"Dialer"
+], 
+"icon": "assets/IMG_0906.jpeg", 
+"screenshots": [
+"assets/IMG_0908.png",
+"assets/IMG_0909.png"
+], 
+"download": "assets/TelephonyUI-meme.3105",
+"sha256": "3b880a9bbb02520ea93bd9b39dc2b4d83aa26b5a186a6436c55df9db0c0537bf", 
+"size": 523699, 
+"password": "Denrin",
+"supportedOS": [ 
+{ 
+"minimum": "17.0", 
+"maximum": "18.7.1" 
+}, 
+{ 
+"minimum": "26.0", 
+"maximum": "26.6.1" 
+}, 
+{ 
+"minimum": "27.0", 
+"maximum": "27.0", 
+"builds": [ 
+"24A5355q", 
+"24A5370h", 
+"24A5380h", 
+"24A5390f" 
+] 
+} 
+], 
+"featured": false, 
+"isPrivate": false 
 } 
 ] 
 }
