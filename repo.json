@@ -260,6 +260,49 @@
 ], 
 "featured": false, 
 "isPrivate": false 
+},
+{ 
+"identifier": "Telephony-amongus", 
+"name": "Among Us Dialer", 
+"author": "Gasetinh", 
+"version": "1.0.0", 
+"summary": "Bàn Phím Mới toanhhhh ★",
+"description": "★ Nhiều Among Us Cute Với Các Hình Thù Bắt Mắt Siêu Thú Vị..\n\n• Có 2 Chế Độ: Sáng/Tối.", 
+"category": "Dialer", 
+"tags": [ 
+"Dialer"
+], 
+"icon": "assets/IMG_0917.jpeg", 
+"screenshots": [
+"assets/IMG_0914.png",
+"assets/IMG_0915.png"
+], 
+"download": "File/TelephonyUI-Amongus.3105",
+"sha256": "c878f887c72ae489d85c29c1ea8571229b2efecf5923d163adeda1b96d3682ae", 
+"size": 420642, 
+"password": "Denrin",
+"supportedOS": [ 
+{ 
+"minimum": "17.0", 
+"maximum": "18.7.1" 
+}, 
+{ 
+"minimum": "26.0", 
+"maximum": "26.6.1" 
+}, 
+{ 
+"minimum": "27.0", 
+"maximum": "27.0", 
+"builds": [ 
+"24A5355q", 
+"24A5370h", 
+"24A5380h", 
+"24A5390f" 
+] 
+} 
+], 
+"featured": false, 
+"isPrivate": false 
 } 
 ] 
 }
