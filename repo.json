@@ -346,6 +346,49 @@
 ], 
 "featured": false, 
 "isPrivate": false 
-} 
+},
+{ 
+"identifier": "Gothic Surreal_Wallpaper", 
+"kind": "wallpaper", 
+"name": "Gothic Surreal Wallpaper", 
+"author": "IDK", 
+"version": "1.0.0", 
+"summary": "Hình Nền Xịn Xìn Xin ★",
+"description": "Tendies Có Mỹ Nữ Siêu Múpp👀", 
+"category": "Wallpaper", 
+"tags": [ 
+"Wallpaper"
+], 
+"icon": "assets/IMG_0775.jpeg", 
+"screenshots": [
+"assets/IMG_0924.png",
+"assets/IMG_0925.png"
+], 
+"download": "File/Gothic Surreal.tendies",
+"sha256": "9475069afebb7a5a56e4dbe61f8b57bf19bf2c3edd464a0e5e2b5bc6f90f6728", 
+"size": 6785409, 
+"supportedOS": [ 
+{ 
+"minimum": "17.0", 
+"maximum": "18.7.1" 
+}, 
+{ 
+"minimum": "26.0", 
+"maximum": "26.6.1" 
+}, 
+{ 
+"minimum": "27.0", 
+"maximum": "27.0", 
+"builds": [ 
+"24A5355q", 
+"24A5370h", 
+"24A5380h", 
+"24A5390f" 
 ] 
+} 
+], 
+"featured": false, 
+"isPrivate": false 
+}
+]
 }
