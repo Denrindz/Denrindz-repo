@@ -133,50 +133,6 @@
 ], 
 "featured": false, 
 "isPrivate": false 
-},
-{ 
-"identifier": "DazzCam_Crack", 
-"kind": "application",
-"name": "Dazz Cam Crack", 
-"author": "WmCry", 
-"version": "1.0.0", 
-"summary": "Chụp Là Ra Ảnh Đẹp Như Phim Những Năm 80 Không Cần Hậu Kỳ – Màu Sắc, Hạt Phim, Rò Sáng Có Hết Trong 1 Cú Chụp ★",
-"description": "★ ĐÃ MỞ KHÓA FULL PRO👀.\n\n-Bộ lọc film cổ điển.\n\n-Hiệu ứng rò sáng ánh sáng.\n\n-Phơi sáng kép (Double Exposure).\n\n-Hẹn giờ chụp.\n\n-Đèn flash film.\n\n-Ống kính mắt cá (Fisheye).\n\n-Điều chỉnh độ phơi sáng.\n\n-Khung ảnh vuông đăng Instagram.\n\n-Nhiều màu đèn flash", 
-"category": "Testing", 
-"tags": [ 
-"Application"
-], 
-"icon": "assets/IMG_0775.jpeg", 
-"screenshots": [
-"assets/IMG_0779.png",
-"assets/IMG_0778.png"
-], 
-"download": "assets/Dazz Cam Pro (WmCry).3105",
-"sha256": "a192b2470cf3766d407a8c9957ec1f92e121ee112bbb983d9b60b21b6387b9ea", 
-"size": 1082, 
-"password": "wmcry",
-"supportedOS": [ 
-{ 
-"minimum": "17.0", 
-"maximum": "18.7.1" 
-}, 
-{ 
-"minimum": "26.0", 
-"maximum": "26.6.1" 
-}, 
-{ 
-"minimum": "27.0", 
-"maximum": "27.0", 
-"builds": [ 
-"24A5355q", 
-"24A5370h", 
-"24A5380h", 
-"24A5390f" 
-] 
-} 
-], 
-"featured": false, 
-"isPrivate": false 
-} 
-] 
+}
+]
 }
