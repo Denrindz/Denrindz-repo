@@ -796,6 +796,50 @@
 "download": "File/TelephonyUI-Shin.3105",
 "sha256": "f50c30a1dc7e1d8f94c54dbb893967b3205b470897e588c7e9953d28b42bda82", 
 "size": 775947, 
+"password": "Denrin",
+"supportedOS": [ 
+{ 
+"minimum": "17.0", 
+"maximum": "18.7.1" 
+}, 
+{ 
+"minimum": "26.0", 
+"maximum": "26.6.1" 
+}, 
+{ 
+"minimum": "27.0", 
+"maximum": "27.0", 
+"builds": [ 
+"24A5355q", 
+"24A5370h", 
+"24A5380h", 
+"24A5390f" 
+] 
+} 
+], 
+"featured": false, 
+"isPrivate": false 
+},
+{ 
+"identifier": "Telephony_Pen", 
+"name": "Pen Dialer", 
+"author": "Gasetinh", 
+"version": "1.0.0", 
+"summary": "Bàn Phím Mới toanhhhh ★",
+"description": "★ Bàn Phím Vẽ Tay 🖊️\n\n• Có 2 Chế Độ: Sáng/Tối.", 
+"category": "Dialer", 
+"tags": [ 
+"Dialer"
+], 
+"icon": "assets/IMG_1058.jpeg", 
+"screenshots": [
+"assets/IMG_1053.png",
+"assets/IMG_1054.png"
+], 
+"download": "File/TelephonyUI-permanent-marker-pen.3105",
+"sha256": "3eb8c8fd14e7328b7dee5b281f44e8bc6af87fe974672af668af580a724a5481", 
+"size": 73583, 
+"password": "Denrin",
 "supportedOS": [ 
 { 
 "minimum": "17.0", 
