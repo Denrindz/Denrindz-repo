@@ -432,6 +432,92 @@
 ], 
 "featured": false, 
 "isPrivate": false 
+},
+{ 
+"identifier": "Monkey_D_Luffy_Wallpaper", 
+"kind": "wallpaper", 
+"name": "Monkey D Luffy Wallpaper", 
+"author": "Chinese", 
+"version": "1.0.0", 
+"summary": "Hình Nền Xịn Xìn Xin ★",
+"description": "Tendies Có Luffy Với Chiếc Mũ Bay 🧢", 
+"category": "Wallpaper", 
+"tags": [ 
+"Wallpaper"
+], 
+"icon": "assets/IMG_0775.jpeg", 
+"screenshots": [
+"assets/IMG_0932.png",
+"assets/IMG_0933.png"
+], 
+"download": "File/Monkey_D_Luffy.tendies",
+"sha256": "9188c1b0ee8e20e3a48a3506148bbeb6508528d6bd7f84b153d841ce63582fd5", 
+"size": 5286398, 
+"supportedOS": [ 
+{ 
+"minimum": "17.0", 
+"maximum": "18.7.1" 
+}, 
+{ 
+"minimum": "26.0", 
+"maximum": "26.6.1" 
+}, 
+{ 
+"minimum": "27.0", 
+"maximum": "27.0", 
+"builds": [ 
+"24A5355q", 
+"24A5370h", 
+"24A5380h", 
+"24A5390f" 
+] 
+} 
+], 
+"featured": false, 
+"isPrivate": false 
+},
+{ 
+"identifier": "MajdataPlay_Wallpaper", 
+"kind": "wallpaper", 
+"name": "MajdataPlay Wallpaper", 
+"author": "Chinese", 
+"version": "1.0.0", 
+"summary": "Hình Nền Xịn Xìn Xin ★",
+"description": "Tendies Có Cô Bé Cute Phù Hợp Cho Các Chị Em 👀👀", 
+"category": "Wallpaper", 
+"tags": [ 
+"Wallpaper"
+], 
+"icon": "assets/IMG_0775.jpeg", 
+"screenshots": [
+"assets/IMG_0934.png",
+"assets/IMG_0935.png"
+], 
+"download": "File/MajdataPlay.tendies",
+"sha256": "c3ad557d54755978891e16cce8493f6368798c751166eabd21d2657885afd0a5", 
+"size": 6744970, 
+"supportedOS": [ 
+{ 
+"minimum": "17.0", 
+"maximum": "18.7.1" 
+}, 
+{ 
+"minimum": "26.0", 
+"maximum": "26.6.1" 
+}, 
+{ 
+"minimum": "27.0", 
+"maximum": "27.0", 
+"builds": [ 
+"24A5355q", 
+"24A5370h", 
+"24A5380h", 
+"24A5390f" 
+] 
+} 
+], 
+"featured": false, 
+"isPrivate": false 
 }
 ]
 }
