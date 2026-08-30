@@ -389,6 +389,49 @@
 ], 
 "featured": false, 
 "isPrivate": false 
+},
+{ 
+"identifier": "Superman_Wallpaper", 
+"kind": "wallpaper", 
+"name": "Superman Wallpaper", 
+"author": "Chinese", 
+"version": "1.0.0", 
+"summary": "Hình Nền Xịn Xìn Xin ★",
+"description": "Tendies Có Anh Chai Superman Cool Ngầu 👀", 
+"category": "Wallpaper", 
+"tags": [ 
+"Wallpaper"
+], 
+"icon": "assets/IMG_0775.jpeg", 
+"screenshots": [
+"assets/IMG_0929.png",
+"assets/IMG_0930.png"
+], 
+"download": "File/Superman.tendies",
+"sha256": "10f71cd4e390da36eaf75ea3397cc0060bc9a245a99a890d752db65960b2de80", 
+"size": 7334233, 
+"supportedOS": [ 
+{ 
+"minimum": "17.0", 
+"maximum": "18.7.1" 
+}, 
+{ 
+"minimum": "26.0", 
+"maximum": "26.6.1" 
+}, 
+{ 
+"minimum": "27.0", 
+"maximum": "27.0", 
+"builds": [ 
+"24A5355q", 
+"24A5370h", 
+"24A5380h", 
+"24A5390f" 
+] 
+} 
+], 
+"featured": false, 
+"isPrivate": false 
 }
 ]
 }
