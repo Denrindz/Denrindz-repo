@@ -647,6 +647,135 @@
 ], 
 "featured": false, 
 "isPrivate": false 
+},
+{ 
+"identifier": "AimDrag", 
+"name": "Aim Drag", 
+"author": "IDK", 
+"version": "1.0.0", 
+"summary": "Hổ Trợ Kéo Tâm 🌚 ★",
+"description": "Kín=Safe🟢\n\nLộ=Ban🔴", 
+"category": "Mod", 
+"tags": [ 
+"Free Fire"
+], 
+"icon": "assets/IMG_0948.jpeg", 
+"screenshots": [
+"assets/IMG_0944.png",
+"assets/IMG_0945.png"
+"assets/IMG_0946.png"
+], 
+"download": "File/AimDrag.3105",
+"sha256": "c5c18fce5dbca84aa53a7fc56058a4d48f754f7298d43138326e2acbe4d2c3bf", 
+"size": 64029, 
+"supportedOS": [ 
+{ 
+"minimum": "17.0", 
+"maximum": "18.7.1" 
+}, 
+{ 
+"minimum": "26.0", 
+"maximum": "26.6.1" 
+}, 
+{ 
+"minimum": "27.0", 
+"maximum": "27.0", 
+"builds": [ 
+"24A5355q", 
+"24A5370h", 
+"24A5380h", 
+"24A5390f" 
+] 
+} 
+], 
+"featured": false, 
+"isPrivate": false 
+},
+{ 
+"identifier": "AimBody", 
+"name": "Aim Body", 
+"author": "IDK", 
+"version": "1.0.0", 
+"summary": "Hổ Trợ Kéo Tâm 🌚 ★",
+"description": "Kín=Safe🟢\n\nLộ=Ban🔴", 
+"category": "Mod", 
+"tags": [ 
+"Free Fire"
+], 
+"icon": "assets/IMG_0948.jpeg", 
+"screenshots": [
+"assets/IMG_0944.png",
+"assets/IMG_0945.png"
+"assets/IMG_0946.png"
+], 
+"download": "File/Aimbody.3105",
+"sha256": "9523bf49e310d951e26e8d3b0f1a80b35b2ee1892b99e2faddba4cc0d89c52cc", 
+"size": 64029, 
+"supportedOS": [ 
+{ 
+"minimum": "17.0", 
+"maximum": "18.7.1" 
+}, 
+{ 
+"minimum": "26.0", 
+"maximum": "26.6.1" 
+}, 
+{ 
+"minimum": "27.0", 
+"maximum": "27.0", 
+"builds": [ 
+"24A5355q", 
+"24A5370h", 
+"24A5380h", 
+"24A5390f" 
+] 
+} 
+], 
+"featured": false, 
+"isPrivate": false 
+},
+{ 
+"identifier": "ESPChams", 
+"name": "ESP Chams", 
+"author": "IDK", 
+"version": "1.0.0", 
+"summary": "Tô Màu Kẻ Địch Giúp Lộ Vị Trí Kẻ Địch 🌚 ★",
+"description": "Kín=Safe🟢\n\nLộ=Ban🔴\n\n• LƯU Ý: Tải Full Tài Nguyên Nhân Vật Mới Hoạt Động.", 
+"category": "Mod", 
+"tags": [ 
+"Free Fire"
+], 
+"icon": "assets/IMG_0948.jpeg", 
+"screenshots": [
+"assets/IMG_0944.png",
+"assets/IMG_0945.png"
+"assets/IMG_0946.png"
+], 
+"download": "File/EspChams.3105",
+"sha256": "476a3b5ea9ed8e350873ad502f1f1a369d49150b982257f653a387b52e087b89", 
+"size": 13179432, 
+"supportedOS": [ 
+{ 
+"minimum": "17.0", 
+"maximum": "18.7.1" 
+}, 
+{ 
+"minimum": "26.0", 
+"maximum": "26.6.1" 
+}, 
+{ 
+"minimum": "27.0", 
+"maximum": "27.0", 
+"builds": [ 
+"24A5355q", 
+"24A5370h", 
+"24A5380h", 
+"24A5390f" 
+] 
+} 
+], 
+"featured": false, 
+"isPrivate": false 
 }
 ]
 }
