@@ -862,6 +862,49 @@
 ], 
 "featured": false, 
 "isPrivate": false 
+},
+{ 
+"identifier": "Telephony_3_Chú_Gấu", 
+"name": "3 Chú Gấu Dialer", 
+"author": "Nhat Tien", 
+"version": "1.0.0", 
+"summary": "Bàn Phím Mới toanhhhh ★",
+"description": "★ Bàn Phím 3 Chú Gấu Siêu Cuteee Phô Mai Que 🐢\n\n• Có 2 Chế Độ: Sáng/Tối.", 
+"category": "Dialer", 
+"tags": [ 
+"Dialer"
+], 
+"icon": "assets/IMG_1116.jpeg", 
+"screenshots": [
+"assets/IMG_1113.png",
+"assets/IMG_1114.png"
+], 
+"download": "File/TelephonyUI-3 Chú Gấu.3105",
+"sha256": "bdd1f9d2cafda795e2a9bfda74b1fdf9994343a31f5b7a837946e7cc6643480f", 
+"size": 334612, 
+"password": "Denrin",
+"supportedOS": [ 
+{ 
+"minimum": "17.0", 
+"maximum": "18.7.1" 
+}, 
+{ 
+"minimum": "26.0", 
+"maximum": "26.6.1" 
+}, 
+{ 
+"minimum": "27.0", 
+"maximum": "27.0", 
+"builds": [ 
+"24A5355q", 
+"24A5370h", 
+"24A5380h", 
+"24A5390f" 
+] 
+} 
+], 
+"featured": false, 
+"isPrivate": false 
 }
 ]
 }
