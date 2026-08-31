@@ -668,6 +668,7 @@
 "download": "File/AimDrag.3105",
 "sha256": "c5c18fce5dbca84aa53a7fc56058a4d48f754f7298d43138326e2acbe4d2c3bf", 
 "size": 64029, 
+"password": "thanhphong",
 "supportedOS": [ 
 { 
 "minimum": "17.0", 
@@ -711,6 +712,7 @@
 "download": "File/Aimbody.3105",
 "sha256": "9523bf49e310d951e26e8d3b0f1a80b35b2ee1892b99e2faddba4cc0d89c52cc", 
 "size": 64029, 
+"password": "thanhphong",
 "supportedOS": [ 
 { 
 "minimum": "17.0", 
@@ -754,6 +756,7 @@
 "download": "File/EspChams.3105",
 "sha256": "476a3b5ea9ed8e350873ad502f1f1a369d49150b982257f653a387b52e087b89", 
 "size": 13179432, 
+"password": "thanhphong",
 "supportedOS": [ 
 { 
 "minimum": "17.0", 
