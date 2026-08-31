@@ -2,9 +2,8 @@
 "schemaVersion": 1, 
 "identifier": "Denrin.Tienn.com", 
 "name": "Denrindz", 
-"description": "Kho Lưu Trữ Các Tiện Ích Và Các Bản Mod Của Denrindz ✦",
+"description": "Kho Lưu Trữ Các Tiện Ích Và Các Bản Mod Của Denrindz ✦\n\Thông Tin Liên Hệ tele: @Denrindz ✦",
 "icon": "assets/IMG_0772.jpeg", 
-"banner": "assets/IMG_1144.jpeg",
 "packages": [ 
 { 
 "identifier": "Ronaldo_Wallpaper", 
@@ -63,6 +62,7 @@
 "Wallpaper"
 ], 
 "icon": "assets/IMG_0775.jpeg", 
+"banner": "assets/IMG_1144.jpeg",
 "screenshots": [
 "assets/IMG_0724.png",
 "assets/IMG_0723.png"
@@ -106,6 +106,7 @@
 "Wallpaper"
 ], 
 "icon": "assets/IMG_0775.jpeg", 
+"banner": "assets/IMG_1144.jpeg",
 "screenshots": [
 "assets/IMG_0779.png",
 "assets/IMG_0778.png"
@@ -148,6 +149,7 @@
 "Application"
 ], 
 "icon": "assets/IMG_0788.jpeg", 
+"banner": "assets/IMG_1144.jpeg",
 "screenshots": [
 "assets/IMG_0791.png",
 ], 
@@ -190,6 +192,7 @@
 "Application"
 ], 
 "icon": "assets/IMG_0808.jpeg", 
+"banner": "assets/IMG_1144.jpeg",
 "screenshots": [
 "assets/IMG_0809.png",
 ], 
@@ -232,6 +235,7 @@
 "Dialer"
 ], 
 "icon": "assets/IMG_0906.jpeg", 
+"banner": "assets/IMG_1144.jpeg",
 "screenshots": [
 "assets/IMG_0908.png",
 "assets/IMG_0909.png"
@@ -275,6 +279,7 @@
 "Dialer"
 ], 
 "icon": "assets/IMG_0917.jpeg", 
+"banner": "assets/IMG_1144.jpeg",
 "screenshots": [
 "assets/IMG_0914.png",
 "assets/IMG_0915.png"
@@ -318,6 +323,7 @@
 "Dialer"
 ], 
 "icon": "assets/IMG_0919.jpeg", 
+"banner": "assets/IMG_1144.jpeg",
 "screenshots": [
 "assets/IMG_0920.png",
 "assets/IMG_0921.png"
@@ -362,6 +368,7 @@
 "Wallpaper"
 ], 
 "icon": "assets/IMG_0775.jpeg", 
+"banner": "assets/IMG_1144.jpeg",
 "screenshots": [
 "assets/IMG_0924.png",
 "assets/IMG_0925.png"
@@ -405,6 +412,7 @@
 "Wallpaper"
 ], 
 "icon": "assets/IMG_0775.jpeg", 
+"banner": "assets/IMG_1144.jpeg",
 "screenshots": [
 "assets/IMG_0929.png",
 "assets/IMG_0930.png"
@@ -448,6 +456,7 @@
 "Wallpaper"
 ], 
 "icon": "assets/IMG_0775.jpeg", 
+"banner": "assets/IMG_1144.jpeg",
 "screenshots": [
 "assets/IMG_0932.png",
 "assets/IMG_0933.png"
@@ -491,6 +500,7 @@
 "Wallpaper"
 ], 
 "icon": "assets/IMG_0775.jpeg", 
+"banner": "assets/IMG_1144.jpeg",
 "screenshots": [
 "assets/IMG_0934.png",
 "assets/IMG_0935.png"
@@ -534,6 +544,7 @@
 "Wallpaper"
 ], 
 "icon": "assets/IMG_0775.jpeg", 
+"banner": "assets/IMG_1144.jpeg",
 "screenshots": [
 "assets/IMG_0936.png",
 "assets/IMG_0937.png"
@@ -577,6 +588,7 @@
 "Wallpaper"
 ], 
 "icon": "assets/IMG_0775.jpeg", 
+"banner": "assets/IMG_1144.jpeg",
 "screenshots": [
 "assets/IMG_0938.png",
 "assets/IMG_0939.png"
@@ -620,6 +632,7 @@
 "Wallpaper"
 ], 
 "icon": "assets/IMG_0775.jpeg", 
+"banner": "assets/IMG_1144.jpeg",
 "screenshots": [
 "assets/IMG_0940.png",
 "assets/IMG_0941.png"
@@ -662,6 +675,7 @@
 "Free Fire"
 ], 
 "icon": "assets/IMG_0948.jpeg", 
+"banner": "assets/IMG_1144.jpeg",
 "screenshots": [
 "assets/IMG_0944.png",
 "assets/IMG_0945.png",
@@ -706,6 +720,7 @@
 "Free Fire"
 ], 
 "icon": "assets/IMG_0948.jpeg", 
+"banner": "assets/IMG_1144.jpeg",
 "screenshots": [
 "assets/IMG_0944.png",
 "assets/IMG_0945.png",
@@ -750,6 +765,7 @@
 "Free Fire"
 ], 
 "icon": "assets/IMG_0948.jpeg", 
+"banner": "assets/IMG_1144.jpeg",
 "screenshots": [
 "assets/IMG_0944.png",
 "assets/IMG_0945.png",
@@ -794,6 +810,7 @@
 "Dialer"
 ], 
 "icon": "assets/IMG_1052.jpeg", 
+"banner": "assets/IMG_1144.jpeg",
 "screenshots": [
 "assets/IMG_1047.png",
 "assets/IMG_1048.png"
@@ -837,6 +854,7 @@
 "Dialer"
 ], 
 "icon": "assets/IMG_1058.jpeg", 
+"banner": "assets/IMG_1144.jpeg",
 "screenshots": [
 "assets/IMG_1053.png",
 "assets/IMG_1054.png"
@@ -880,6 +898,7 @@
 "Dialer"
 ], 
 "icon": "assets/IMG_1116.jpeg", 
+"banner": "assets/IMG_1144.jpeg",
 "screenshots": [
 "assets/IMG_1113.png",
 "assets/IMG_1114.png"
@@ -923,6 +942,7 @@
 "Free Fire"
 ], 
 "icon": "assets/IMG_0948.jpeg", 
+"banner": "assets/IMG_1144.jpeg",
 "screenshots": [
 "assets/IMG_0944.png",
 "assets/IMG_0945.png",
@@ -967,6 +987,7 @@
 "Free Fire"
 ], 
 "icon": "assets/IMG_0948.jpeg", 
+"banner": "assets/IMG_1144.jpeg",
 "screenshots": [
 "assets/IMG_0944.png",
 "assets/IMG_0945.png",
