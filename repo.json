@@ -4,6 +4,7 @@
 "name": "Denrindz", 
 "description": "Kho Lưu Trữ Các Tiện Ích Và Các Bản Mod Của Denrindz ✦",
 "icon": "assets/IMG_0772.jpeg", 
+"banner": "assets/IMG_1144.jpeg",
 "packages": [ 
 { 
 "identifier": "Ronaldo_Wallpaper", 
@@ -18,6 +19,7 @@
 "Wallpaper"
 ], 
 "icon": "assets/IMG_0775.jpeg", 
+"banner": "assets/IMG_1144.jpeg",
 "screenshots": [ 
 "assets/IMG_0720.png",
 "assets/IMG_0721.png"
