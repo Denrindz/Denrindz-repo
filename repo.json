@@ -654,7 +654,7 @@
 "author": "IDK", 
 "version": "1.0.0", 
 "summary": "Hổ Trợ Kéo Tâm 🌚 ★",
-"description": "Kín=Safe🟢\n\nLộ=Ban🔴", 
+"description": "Free Fire Thường\n\nKín=Safe🟢\n\nLộ=Ban🔴", 
 "category": "Free Fire", 
 "tags": [ 
 "Free Fire"
@@ -698,7 +698,7 @@
 "author": "IDK", 
 "version": "1.0.0", 
 "summary": "Hổ Trợ Kéo Tâm 🌚 ★",
-"description": "Kín=Safe🟢\n\nLộ=Ban🔴", 
+"description": "Free Fire Thường\n\nKín=Safe🟢\n\nLộ=Ban🔴", 
 "category": "Free Fire", 
 "tags": [ 
 "Free Fire"
@@ -742,7 +742,7 @@
 "author": "IDK", 
 "version": "1.0.0", 
 "summary": "Tô Màu Kẻ Địch Giúp Lộ Vị Trí Kẻ Địch 🌚 ★",
-"description": "Kín=Safe🟢\n\nLộ=Ban🔴\n\n• LƯU Ý: Tải Full Tài Nguyên Nhân Vật Mới Hoạt Động.", 
+"description": "Free Fire Thường\n\nKín=Safe🟢\n\nLộ=Ban🔴\n\n• LƯU Ý: Tải Full Tài Nguyên Nhân Vật Mới Hoạt Động.", 
 "category": "Free Fire", 
 "tags": [ 
 "Free Fire"
@@ -886,6 +886,94 @@
 "sha256": "bdd1f9d2cafda795e2a9bfda74b1fdf9994343a31f5b7a837946e7cc6643480f", 
 "size": 334612, 
 "password": "Denrin",
+"supportedOS": [ 
+{ 
+"minimum": "17.0", 
+"maximum": "18.7.1" 
+}, 
+{ 
+"minimum": "26.0", 
+"maximum": "26.6.1" 
+}, 
+{ 
+"minimum": "27.0", 
+"maximum": "27.0", 
+"builds": [ 
+"24A5355q", 
+"24A5370h", 
+"24A5380h", 
+"24A5390f" 
+] 
+} 
+], 
+"featured": false, 
+"isPrivate": false 
+},
+{ 
+"identifier": "Dvma", 
+"name": "Định Vị Ma FFT", 
+"author": "WmCry", 
+"version": "1.0.0", 
+"summary": "Tô Màu Kẻ Địch Giúp Lộ Vị Trí Kẻ Địch 🌚 ★",
+"description": "Free Fire Thường\n\nKín=Safe🟢\n\nLộ=Ban🔴", 
+"category": "Free Fire", 
+"tags": [ 
+"Free Fire"
+], 
+"icon": "assets/IMG_0948.jpeg", 
+"screenshots": [
+"assets/IMG_0944.png",
+"assets/IMG_0945.png",
+"assets/IMG_0946.png"
+], 
+"download": "File/Định_Vị_Ma-FFTH-Wmcry.3105",
+"sha256": "888c6bf2609e374aeb282b04b792cc0bb8e8d012563b0388b17475de1ce3b4a9", 
+"size": 384279, 
+"password": "wmcry",
+"supportedOS": [ 
+{ 
+"minimum": "17.0", 
+"maximum": "18.7.1" 
+}, 
+{ 
+"minimum": "26.0", 
+"maximum": "26.6.1" 
+}, 
+{ 
+"minimum": "27.0", 
+"maximum": "27.0", 
+"builds": [ 
+"24A5355q", 
+"24A5370h", 
+"24A5380h", 
+"24A5390f" 
+] 
+} 
+], 
+"featured": false, 
+"isPrivate": false 
+},
+{ 
+"identifier": "Dvma", 
+"name": "Định Vị Ma FFM", 
+"author": "WmCry", 
+"version": "1.0.0", 
+"summary": "Tô Màu Kẻ Địch Giúp Lộ Vị Trí Kẻ Địch 🌚 ★",
+"description": "Free Fire Max\n\nKín=Safe🟢\n\nLộ=Ban🔴", 
+"category": "Free Fire", 
+"tags": [ 
+"Free Fire"
+], 
+"icon": "assets/IMG_0948.jpeg", 
+"screenshots": [
+"assets/IMG_0944.png",
+"assets/IMG_0945.png",
+"assets/IMG_0946.png"
+], 
+"download": "File/Định_Vị_Ma_FFM.3105",
+"sha256": "bfacc5cd24706895789cced395128538a692f22242ef8ee291b5eb7c86d19608", 
+"size": 384292, 
+"password": "wmcry",
 "supportedOS": [ 
 { 
 "minimum": "17.0", 
