@@ -728,8 +728,8 @@
 "assets/IMG_1206.png"
 ], 
 "download": "File/Usagi.tendies",
-"sha256": "e7bf33a85304a61e1d9174fb72dc3d1499cae6e12db267e1c13df39c13ba7248", 
-"size": 14533669, 
+"sha256": "6732bc46661f629a81ceaf2bf4a54ee46105d1268a8681f834eb81b705b40465", 
+"size": 12991848, 
 "supportedOS": [ 
 { 
 "minimum": "17.0", 
@@ -772,8 +772,8 @@
 "assets/IMG_1211.png"
 ], 
 "download": "File/Hachiware.tendies",
-"sha256": "6732bc46661f629a81ceaf2bf4a54ee46105d1268a8681f834eb81b705b40465", 
-"size": 12991848, 
+"sha256": "e7bf33a85304a61e1d9174fb72dc3d1499cae6e12db267e1c13df39c13ba7248", 
+"size": 14533669, 
 "supportedOS": [ 
 { 
 "minimum": "17.0", 
