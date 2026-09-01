@@ -710,9 +710,9 @@
 "isPrivate": false 
 },
 { 
-"identifier": "Hachiware_Wallpaper", 
+"identifier": "usagi_Wallpaper", 
 "kind": "wallpaper", 
-"name": "Hachiware Wallpaper", 
+"name": "Usagi Wallpaper", 
 "author": "Nhat Tien", 
 "version": "1.0.0", 
 "summary": "Hình Nền Xịn Xìn Xin ★",
@@ -727,7 +727,7 @@
 "assets/IMG_1204.png",
 "assets/IMG_1206.png"
 ], 
-"download": "File/Hachiware.tendies",
+"download": "File/Usagi.tendies",
 "sha256": "e7bf33a85304a61e1d9174fb72dc3d1499cae6e12db267e1c13df39c13ba7248", 
 "size": 14533669, 
 "supportedOS": [ 
@@ -754,9 +754,9 @@
 "isPrivate": false 
 },
 { 
-"identifier": "usagi_Wallpaper", 
+"identifier": "hachiware_Wallpaper", 
 "kind": "wallpaper", 
-"name": "Usagi Wallpaper", 
+"name": "Hachiware Wallpaper", 
 "author": "Nhat Tien", 
 "version": "1.0.0", 
 "summary": "Hình Nền Xịn Xìn Xin ★",
@@ -771,7 +771,7 @@
 "assets/IMG_1210.png",
 "assets/IMG_1211.png"
 ], 
-"download": "File/Usagi.tendies",
+"download": "File/Hachiware.tendies",
 "sha256": "6732bc46661f629a81ceaf2bf4a54ee46105d1268a8681f834eb81b705b40465", 
 "size": 12991848, 
 "supportedOS": [ 
