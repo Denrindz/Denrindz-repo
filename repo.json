@@ -156,7 +156,6 @@
 ], 
 "download": "File/Meme-Troll.3105pass",
 "sha256": "37a0a95055386e04102fd46369d569802a9d908ce8beabaeafb1605538a345d3", 
-"size": 506377, 
 "supportedOS": [ 
 { 
 "minimum": "17.0", 
@@ -199,7 +198,6 @@
 ], 
 "download": "File/Amongus.3105pass",
 "sha256": "2c9d81aa5e1fc6fcd4dda955504d042f126599871b5632a98889b893af274193", 
-"size": 768621, 
 "supportedOS": [ 
 { 
 "minimum": "17.0", 
@@ -242,7 +240,6 @@
 ], 
 "download": "File/Cute-Cat.3105pass",
 "sha256": "3a5193cd8fcf9794854235c43e386bc6dff059d9daed0398216fb94451841eb8", 
-"size": 726028, 
 "supportedOS": [ 
 { 
 "minimum": "17.0", 
@@ -593,7 +590,6 @@
 ], 
 "download": "File/Shin.3105pass",
 "sha256": "0250d985aa0afe3254a828d0a5cff73d7c74afec51ae3c9b0309245d53192cc9", 
-"size": 763902, 
 "supportedOS": [ 
 { 
 "minimum": "17.0", 
@@ -636,7 +632,6 @@
 ], 
 "download": "File/Pen.3105pass",
 "sha256": "360420fe3a0f29608e4243d17c5dd82bf0e5abfff4b26c409e76171f25be07a5", 
-"size": 64952, 
 "supportedOS": [ 
 { 
 "minimum": "17.0", 
@@ -679,8 +674,6 @@
 ], 
 "download": "File/3-Chú-Gấu.3105pass",
 "sha256": "e98f6dfd12e47de499ef8d6398fb294b2be93b869b3b8fa99509410e6c7ccc9e", 
-"size": 640390, 
-"password": "Denrin",
 "supportedOS": [ 
 { 
 "minimum": "17.0", 
