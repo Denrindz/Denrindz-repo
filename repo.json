@@ -1841,6 +1841,50 @@
 ], 
 "featured": false, 
 "isPrivate": false 
+},
+{ 
+"identifier": "modskinlq",  
+"name": "Mod Skin LQ (4/9)", 
+"author": "HzMod", 
+"version": "1.0.0", 
+"summary": "Skin Xịn Xìn Xin ★",
+"description": "Có Trận Ảo Nhưng Tỉ Lên Thấp 🐢", 
+"category": "Mod", 
+"tags": [ 
+"Mod"
+], 
+"icon": "Photos/IMG_1674.jpeg", 
+"screenshots": [
+"Photos/IMG_1675.png",
+"Photos/IMG_1676.png",
+"Photos/IMG_1677.png",
+"Photos/IMG_1678.png"
+], 
+"download": "File/Mod-35Skin-Lq-(4/9).3105",
+"sha256": "c8034c30efe1facef68d3ac3405d5384c2b7a442b46613edb2f301cd429081f0", 
+"size": 6640006, 
+"supportedOS": [ 
+{ 
+"minimum": "17.0", 
+"maximum": "18.7.1" 
+}, 
+{ 
+"minimum": "26.0", 
+"maximum": "26.6.1" 
+}, 
+{ 
+"minimum": "27.0", 
+"maximum": "27.0", 
+"builds": [ 
+"24A5355q", 
+"24A5370h", 
+"24A5380h", 
+"24A5390f" 
+] 
+} 
+], 
+"featured": false, 
+"isPrivate": false 
 }
 ]
 }
