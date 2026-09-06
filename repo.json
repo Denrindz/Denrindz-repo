@@ -1845,7 +1845,7 @@
 },
 { 
 "identifier": "modskinlq",  
-"name": "Mod Skin LQ (4/9)", 
+"name": "Mod Skin LQ (6/9)", 
 "author": "HzMod", 
 "version": "1.0.0", 
 "summary": "Skin Xịn Xìn Xin ★",
@@ -1861,9 +1861,9 @@
 "Photos/IMG_1677.png",
 "Photos/IMG_1678.png"
 ], 
-"download": "File/Mod-35Skin-Lq-(4:9).3105",
-"sha256": "c8034c30efe1facef68d3ac3405d5384c2b7a442b46613edb2f301cd429081f0", 
-"size": 6640006, 
+"download": "File/Mod-35-Skin-LQ-6-9-.3105",
+"sha256": "d007d2f81156f8d6cb55fafb0c1d090134b0ae06a09da7d396efa0a15baf5c2a", 
+"size": 8518035, 
 "password": "Denrindz",
 "supportedOS": [ 
 { 
