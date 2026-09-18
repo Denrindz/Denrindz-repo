@@ -1932,6 +1932,135 @@
 ], 
 "featured": false, 
 "isPrivate": false 
+},
+{ 
+"identifier": "asuka_Wallpaper", 
+"kind": "wallpaper", 
+"name": "Asuka Langley Soryu Wallpaper", 
+"author": "Nhat Tien", 
+"version": "1.0.0", 
+"summary": "Hình Nền Xịn Xìn Xin ★",
+"description": "Tendies Cute Phô Mai Queee 🐢", 
+"category": "Wallpaper", 
+"tags": [ 
+"Wallpaper"
+], 
+"icon": "Photos/IMG_2043.jpeg", 
+"screenshots": [
+"Photos/IMG_2029.png",
+"Photos/IMG_2030.png"
+], 
+"download": "File/Asuka_Langley_Soryu.tendies",
+"sha256": "b192670ec9194bfa28d0fd67937c0a7ef680a08a3efbebe329014eaaeb565a42", 
+"size": 8219562, 
+"supportedOS": [ 
+{ 
+"minimum": "17.0", 
+"maximum": "18.7.1" 
+}, 
+{ 
+"minimum": "26.0", 
+"maximum": "26.6.1" 
+}, 
+{ 
+"minimum": "27.0", 
+"maximum": "27.0", 
+"builds": [ 
+"24A5355q", 
+"24A5370h", 
+"24A5380h", 
+"24A5390f" 
+] 
+} 
+], 
+"featured": false, 
+"isPrivate": false 
+},
+{ 
+"identifier": "bochan_Wallpaper", 
+"kind": "wallpaper", 
+"name": "Bo Chan Wallpaper", 
+"author": "Nhat Tien", 
+"version": "1.0.0", 
+"summary": "Hình Nền Xịn Xìn Xin ★",
+"description": "Tendies Cute Phô Mai Queee 🐢", 
+"category": "Wallpaper", 
+"tags": [ 
+"Wallpaper"
+], 
+"icon": "Photos/IMG_2041.jpeg", 
+"screenshots": [
+"Photos/IMG_2031.png",
+"Photos/IMG_2032.png"
+], 
+"download": "File/bo_chan.tendies",
+"sha256": "eb5bfa651baaed76436ba6a8fb9716b6a8dbacb45bde7f41f299eab12b8bfebc", 
+"size": 2083617, 
+"supportedOS": [ 
+{ 
+"minimum": "17.0", 
+"maximum": "18.7.1" 
+}, 
+{ 
+"minimum": "26.0", 
+"maximum": "26.6.1" 
+}, 
+{ 
+"minimum": "27.0", 
+"maximum": "27.0", 
+"builds": [ 
+"24A5355q", 
+"24A5370h", 
+"24A5380h", 
+"24A5390f" 
+] 
+} 
+], 
+"featured": false, 
+"isPrivate": false 
+},
+{ 
+"identifier": "Juki_Suou_Wallpaper", 
+"kind": "wallpaper", 
+"name": "Juki Suou Wallpaper", 
+"author": "Nhat Tien", 
+"version": "1.0.0", 
+"summary": "Hình Nền Xịn Xìn Xin ★",
+"description": "Tendies Cute Phô Mai Queee 🐢", 
+"category": "Wallpaper", 
+"tags": [ 
+"Wallpaper"
+], 
+"icon": "Photos/IMG_2042.jpeg", 
+"screenshots": [
+"Photos/IMG_2036.png",
+"Photos/IMG_2037.png"
+], 
+"download": "File/Juki_Suou.tendies",
+"sha256": "48693633952c5d7cd99fef0cb0d1ad8b8979a4d3c0fc446f8079622bf799f532", 
+"size": 3102897, 
+"supportedOS": [ 
+{ 
+"minimum": "17.0", 
+"maximum": "18.7.1" 
+}, 
+{ 
+"minimum": "26.0", 
+"maximum": "26.6.1" 
+}, 
+{ 
+"minimum": "27.0", 
+"maximum": "27.0", 
+"builds": [ 
+"24A5355q", 
+"24A5370h", 
+"24A5380h", 
+"24A5390f" 
+] 
+} 
+], 
+"featured": false, 
+"isPrivate": false 
 }
 ]
 }
